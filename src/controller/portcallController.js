@@ -1,4 +1,4 @@
-const data = require('../data/data.json');
+const data = require('../../Z388-25061.json');
 const moment = require('moment');
 
 const getPortcallController = async (req, res) => {
